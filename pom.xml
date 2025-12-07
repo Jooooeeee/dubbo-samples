@@ -12,6 +12,8 @@
   <modules>
     <module>dubbo-test-service</module>
     <module>dubbo-test-api</module>
+    <module>dubbo-test-consumer</module>
+    <module>dubbo-test-provider</module>
   </modules>
 
   <properties>

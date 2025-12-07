@@ -3,6 +3,10 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/dubbo-test-api/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-test-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-test-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-test-consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-test-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-test-provider/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-test-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-test-service/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
